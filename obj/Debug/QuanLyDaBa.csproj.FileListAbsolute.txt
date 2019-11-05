@@ -1,0 +1,41 @@
+C:\Users\VTA\Documents\Visual Studio 2015\Projects\QuanLyDaBa\QuanLyDaBa\bin\Debug\QuanLyDaBa.exe.config
+C:\Users\VTA\Documents\Visual Studio 2015\Projects\QuanLyDaBa\QuanLyDaBa\bin\Debug\QuanLyDaBa.exe
+C:\Users\VTA\Documents\Visual Studio 2015\Projects\QuanLyDaBa\QuanLyDaBa\bin\Debug\QuanLyDaBa.pdb
+C:\Users\VTA\Documents\Visual Studio 2015\Projects\QuanLyDaBa\QuanLyDaBa\obj\Debug\QuanLyDaBa.csprojResolveAssemblyReference.cache
+C:\Users\VTA\Documents\Visual Studio 2015\Projects\QuanLyDaBa\QuanLyDaBa\obj\Debug\QuanLyDaBa.ftmQuanLyDaBa.resources
+C:\Users\VTA\Documents\Visual Studio 2015\Projects\QuanLyDaBa\QuanLyDaBa\obj\Debug\QuanLyDaBa.Properties.Resources.resources
+C:\Users\VTA\Documents\Visual Studio 2015\Projects\QuanLyDaBa\QuanLyDaBa\obj\Debug\QuanLyDaBa.csproj.GenerateResource.Cache
+C:\Users\VTA\Documents\Visual Studio 2015\Projects\QuanLyDaBa\QuanLyDaBa\obj\Debug\QuanLyDaBa.exe
+C:\Users\VTA\Documents\Visual Studio 2015\Projects\QuanLyDaBa\QuanLyDaBa\obj\Debug\QuanLyDaBa.pdb
+C:\Users\VTA\Documents\Visual Studio 2015\Projects\QuanLyDaBa\QuanLyDaBa\bin\Debug\Data\Nhom.txt
+C:\Users\VTA\Documents\Visual Studio 2015\Projects\QuanLyDaBa\QuanLyDaBa\bin\Debug\Data\TenLienLac.txt
+C:\Users\VTA\Documents\Visual Studio 2015\Projects\QuanLyDaBa\QuanLyDaBa\obj\Debug\QuanLyDaBa.add.resources
+C:\Users\VTA\Documents\Visual Studio 2015\Projects\QuanLyDaBa\QuanLyDaBa\obj\Debug\QuanLyDaBa.AddTenLienLac.resources
+E:\Java\C# Project\QuanLyDaBa\QuanLyDaBa\bin\Debug\Data\TenLienLac.txt
+E:\Java\C# Project\QuanLyDaBa\QuanLyDaBa\bin\Debug\Data\Nhom.txt
+E:\Java\C# Project\QuanLyDaBa\QuanLyDaBa\bin\Debug\QuanLyDaBa.exe.config
+E:\Java\C# Project\QuanLyDaBa\QuanLyDaBa\bin\Debug\QuanLyDaBa.exe
+E:\Java\C# Project\QuanLyDaBa\QuanLyDaBa\bin\Debug\QuanLyDaBa.pdb
+E:\Java\C# Project\QuanLyDaBa\QuanLyDaBa\obj\Debug\QuanLyDaBa.csprojAssemblyReference.cache
+E:\Java\C# Project\QuanLyDaBa\QuanLyDaBa\obj\Debug\QuanLyDaBa.add.resources
+E:\Java\C# Project\QuanLyDaBa\QuanLyDaBa\obj\Debug\QuanLyDaBa.AddTenLienLac.resources
+E:\Java\C# Project\QuanLyDaBa\QuanLyDaBa\obj\Debug\QuanLyDaBa.ftmQuanLyDaBa.resources
+E:\Java\C# Project\QuanLyDaBa\QuanLyDaBa\obj\Debug\QuanLyDaBa.Properties.Resources.resources
+E:\Java\C# Project\QuanLyDaBa\QuanLyDaBa\obj\Debug\QuanLyDaBa.csproj.GenerateResource.cache
+E:\Java\C# Project\QuanLyDaBa\QuanLyDaBa\obj\Debug\QuanLyDaBa.csproj.CoreCompileInputs.cache
+E:\Java\C# Project\QuanLyDaBa\QuanLyDaBa\obj\Debug\QuanLyDaBa.exe
+E:\Java\C# Project\QuanLyDaBa\QuanLyDaBa\obj\Debug\QuanLyDaBa.pdb
+C:\Users\praoh\OneDrive\Desktop\Tài Liệu\Contact-DotNet-master\bin\Debug\Data\TenLienLac.txt
+C:\Users\praoh\OneDrive\Desktop\Tài Liệu\Contact-DotNet-master\bin\Debug\Data\Nhom.txt
+C:\Users\praoh\OneDrive\Desktop\Tài Liệu\Contact-DotNet-master\bin\Debug\QuanLyDaBa.exe.config
+C:\Users\praoh\OneDrive\Desktop\Tài Liệu\Contact-DotNet-master\bin\Debug\QuanLyDaBa.exe
+C:\Users\praoh\OneDrive\Desktop\Tài Liệu\Contact-DotNet-master\bin\Debug\QuanLyDaBa.pdb
+C:\Users\praoh\OneDrive\Desktop\Tài Liệu\Contact-DotNet-master\obj\Debug\QuanLyDaBa.csprojAssemblyReference.cache
+C:\Users\praoh\OneDrive\Desktop\Tài Liệu\Contact-DotNet-master\obj\Debug\QuanLyDaBa.add.resources
+C:\Users\praoh\OneDrive\Desktop\Tài Liệu\Contact-DotNet-master\obj\Debug\QuanLyDaBa.AddTenLienLac.resources
+C:\Users\praoh\OneDrive\Desktop\Tài Liệu\Contact-DotNet-master\obj\Debug\QuanLyDaBa.ftmQuanLyDaBa.resources
+C:\Users\praoh\OneDrive\Desktop\Tài Liệu\Contact-DotNet-master\obj\Debug\QuanLyDaBa.Properties.Resources.resources
+C:\Users\praoh\OneDrive\Desktop\Tài Liệu\Contact-DotNet-master\obj\Debug\QuanLyDaBa.csproj.GenerateResource.cache
+C:\Users\praoh\OneDrive\Desktop\Tài Liệu\Contact-DotNet-master\obj\Debug\QuanLyDaBa.csproj.CoreCompileInputs.cache
+C:\Users\praoh\OneDrive\Desktop\Tài Liệu\Contact-DotNet-master\obj\Debug\QuanLyDaBa.exe
+C:\Users\praoh\OneDrive\Desktop\Tài Liệu\Contact-DotNet-master\obj\Debug\QuanLyDaBa.pdb
